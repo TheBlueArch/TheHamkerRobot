@@ -1,12 +1,12 @@
 <h2 align="center">
-    ──「 ғᴀʟʟᴇɴ ✘ ʀᴏʙᴏᴛ 」──
+    ──「 ᴛʜᴇ ʜᴀᴍᴋᴇʀ ʙᴏᴛ 」──
 </h2>
 
 <p align="center">
   <img src="https://graph.org/file/6961eb4e48ff175661166.jpg">
 </p>
 
-**_Available on Telegram as [@FallenxBot](https://t.me/FallenxBot)_**
+**_Available on Telegram as [@TheHamkerRobot](https://t.me/TheHamkerRobot)_**
 
 <p align="center">
 <a href="https://github.com/AnonymousX1025/FallenRobot/stargazers"><img src="https://img.shields.io/github/stars/AnonymousX1025/FallenRobot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars"/></a>
