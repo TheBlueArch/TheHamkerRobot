@@ -56,7 +56,7 @@
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
          "required": true,
-         "value": ""
+         "value": "mongodb://mongo:nyTNGLiNoRuVnsVhKHhtNMzlDCkrzrdN@autorack.proxy.rlwy.net:44498"
       },
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
@@ -81,7 +81,7 @@
       "TOKEN": {
          "description": "Get bot token from @BotFather on TG",
          "required": true,
-         "value": ""
+         "value": "7602370063:AAEQ51-I4vVPYQncloYG2lTA7RpZP-rkxpk"
       }
    }
 }
