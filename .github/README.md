@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://graph.org/file/6961eb4e48ff175661166.jpg">
+  <img src="https://te.legra.ph/file/77b6ed937de679f62e779-7435ac5456c0f98396.jpg">
 </p>
 
 **_Available on Telegram as [@TheHamkerRobot](https://t.me/TheHamkerRobot)_**
